@@ -86,20 +86,53 @@ namespace Program
             // bool isGo = false;
             // Console.WriteLine("isGo : " + isGo);
             
-            Int32 number = 123;
-            String text = "Hello";
-            Boolean flag = true;
-            Console.WriteLine("number : " + number);
-            Console.WriteLine("text : " + text);
-            Console.WriteLine("flag : " + flag);
+            // Int32 number = 123;
+            // String text = "Hello";
+            // Boolean flag = true;
+            // Console.WriteLine("number : " + number);
+            // Console.WriteLine("text : " + text);
+            // Console.WriteLine("flag : " + flag);
 
-            int intostr = 123;
-            string intostring = intostr.ToString();
-            Console.WriteLine("intostring : " + intostring);
-            bool flag = true;
-            string flagAsString = flag.ToString();
-            Console.WriteLine("flagAsString : " + flagAsString);
+            // int intostr = 123;
+            // string intostring = intostr.ToString();
+            // Console.WriteLine("intostring : " + intostring);
+            // bool flag = true;
+            // string flagAsString = flag.ToString();
+            // Console.WriteLine("flagAsString : " + flagAsString);
 
+            //이진수
+            // Console.WriteLine("2진수를 입력하시오");
+            // string Two = Console.ReadLine();
+            // int twoChange = Convert.ToInt32(Two, 2);
+            // string tenChange = Convert.ToString(twoChange, 2);
+            // Console.WriteLine($"{twoChange}");
+            // Console.WriteLine($"{tenChange}");
+
+            // //var
+            // var name = "Alice"; //이러면 var가 알아서 string으로 저장시킴
+            // var isTime = false;
+            // var Time = 360;
+            // Console.WriteLine($"{name}은/는 {Time}second에 도착했고 늦었냐 물어보면 {isTime}이다.");
+
+            //default 값이 기본값으로 설정된다
+            // int a = default; //dafault = 0
+            // string b = default; //dafault = null
+            // bool c = default; //dafault = false
+            // Console.WriteLine($"{a}, {b}, {c}");
+
+            // //산술연산자
+            // int a = 1;
+            // int b = 2;
+            // int sum = a + b; // %=나눈거 나머지
+            // Console.WriteLine($"a({a}) + b({b}) : {sum}");
+            // //관계연산자
+            // a = 1;
+            // b = 2;
+            // bool c = (a == b); //woooow
+            // Console.WriteLine($"a({a}) == b({b}) : {c}");
+            // //단항연산자
+            int number = 5;
+            Console.WriteLine(number~);
 
 
 
