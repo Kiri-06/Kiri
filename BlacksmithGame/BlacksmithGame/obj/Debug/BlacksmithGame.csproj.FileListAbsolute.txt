@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\obj\Debug\BlacksmithGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\obj\Debug\BlacksmithGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\bin\Debug\BlacksmithGame.exe.config
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\bin\Debug\BlacksmithGame.exe
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\bin\Debug\BlacksmithGame.pdb
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\obj\Debug\BlacksmithGame.exe
+C:\Users\user\Desktop\BlacksmithGame\BlacksmithGame\obj\Debug\BlacksmithGame.pdb
