@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Day7_homework\Day7_homework\bin\Debug\Day7_homework.exe.config
+C:\Users\user\Desktop\Day7_homework\Day7_homework\bin\Debug\Day7_homework.exe
+C:\Users\user\Desktop\Day7_homework\Day7_homework\bin\Debug\Day7_homework.pdb
+C:\Users\user\Desktop\Day7_homework\Day7_homework\obj\Debug\Day7_homework.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Day7_homework\Day7_homework\obj\Debug\Day7_homework.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day7_homework\Day7_homework\obj\Debug\Day7_homework.exe
+C:\Users\user\Desktop\Day7_homework\Day7_homework\obj\Debug\Day7_homework.pdb
